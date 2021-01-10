@@ -1,2 +1,5 @@
 # hello-world
-Just another repository (test)
+
+Hello!
+
+My name is Andreas and this is my first time using GitHub.
